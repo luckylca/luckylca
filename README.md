@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![lucky's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=luckylca&show_icons=true&count_private=true&theme=gotham)
+
+[![lucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckylca)](https://github.com/anuraghazra/github-readme-stats)
