@@ -14,7 +14,7 @@
 ### 👨‍💻 关于我
 
 - 🎓 **教育背景**：**长沙理工大学 · 电气与信息工程学院** 在读。
-- 🔭 **目前专注**： **嵌入式系统** 与 **Web 前端** 开发。
+- 🔭 **目前专注**： **Web 前端** 与 **嵌入式系统** 开发。
 - 🌱 **学习进阶**：主修嵌入式C语言，前端辅修。
 
 ---
@@ -34,8 +34,8 @@
 <p align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=luckylca&show_icons=true&theme=radical&hide_border=true" height="170px" /></td>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckylca&layout=compact&theme=radical&hide=c,cpp,html,css&hide_border=true" height="170px" /></td>
+      <td align="center"><img src="https://kayan-github-profile-projects-featu.vercel.app/api?username=luckylca&show_icons=true&theme=radical&hide_border=true" height="170px" /></td>
+      <td align="center"><img src="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=luckylca&layout=compact&theme=radical&hide=html,css,c,c%2b%2b&hide_border=true" height="170px" /></td>
     </tr>
   </table>
 </p>
