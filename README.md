@@ -5,7 +5,7 @@
 > **"Let's start at the rainbow"**
 
 <p align="left">
-  <a href="#" target="https://luckylca.github.io/">个人博客</a> ·
+  <a href="https://luckylca.github.io/" target="_blank">个人博客</a> ·
   <a href="mailto:2777581179@qq.com">Email</a>
 </p>
 
