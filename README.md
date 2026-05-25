@@ -1,6 +1,5 @@
 <div align="center">
 
-
 # Hi there, I'm luckylca 👋
 
 > **"Let's start at the rainbow"** 🌈
@@ -15,18 +14,18 @@
 ### 👨‍💻 关于我
 
 - 🎓 **教育背景**：**长沙理工大学 · 电气与信息工程学院** 在读。
-- 🔭 **目前专注**： **Web 前端** 与 **嵌入式系统** 开发。
+- 🔭 **目前专注**： **嵌入式系统** 与 **Web 前端** 开发。
 - 🌱 **学习进阶**：主修嵌入式C语言，前端辅修。
 
 ---
 
 ### 🛠 我的技术栈
 
-| 类别              | 技术图标                                                     |
-| :---------------- | :----------------------------------------------------------- |
-| **嵌入式 / 底层** | <img src="https://img.shields.io/badge/-Embedded%20C-A8B9CC?style=flat-square&logo=c&logoColor=white" /> |
-| **前端开发**      | <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Uniapp-2B9939?style=flat-square&logo=vuedotjs&logoColor=white" /> |
-| **工具**          | <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> |
+| 类别              | 技术图标                                                                                                                     |
+| :---------------- | :--------------------------------------------------------------------------------------------------------------------------- |
+| **嵌入式 / 底层** | <img src="https://img.shields.io/badge/-Embedded%20C-A8B9CC?style=flat-square&logo=c&logoColor=white" />                     |
+| **前端开发** | <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Uniapp-2B9939?style=flat-square&logo=vuedotjs&logoColor=white" /> |
+| **工具** | <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> |
 
 ---
 
@@ -35,8 +34,8 @@
 <p align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=luckylca&show_icons=true&theme=radical&hidel_border=true" height="170px" /></td>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckylca&layout=compact&theme=radical&hide=html,css&hidel_border=true" height="170px" /></td>
+      <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=luckylca&show_icons=true&theme=radical&hide_border=true" height="170px" /></td>
+      <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckylca&layout=compact&theme=radical&hide=c,cpp,html,css&hide_border=true" height="170px" /></td>
     </tr>
   </table>
 </p>
@@ -62,12 +61,10 @@
 
 ---
 
-<div align="center">
-
-
 **"Let's start at the rainbow."**
 
 ---
 
 *感谢造访我的 GitHub 主页！*
+
 </div>
